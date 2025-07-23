@@ -1,0 +1,8 @@
+name: snake_game
+channels:
+  - defaults
+dependencies:
+  - python=3.10
+  - flake8
+  - pytest
+  - turtle  # optional, technically built-in with standard Python
